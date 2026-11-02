@@ -65,8 +65,7 @@ Tools built close to the operating system and the network, each with its own tes
 
 <a href="https://github.com/OrBrener1/protocols-in-practice"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-networks-dark.svg"><img alt="DNS and HTTP over sockets. Computer Networks, Python. A caching DNS resolver and an HTTP/1.1 server and client, written directly on sockets. UDP, TCP, sockets, threads." src="assets/card-networks-light.svg" width="49%"></picture></a>&nbsp;<a href="https://github.com/OrBrener1/os-in-practice"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-os-dark.svg"><img alt="Operating systems in practice. Operating Systems, C and Bash. A CPU scheduler, four IPC channels and safety hooks for an AI coding agent. Processes, signals, shared memory." src="assets/card-os-light.svg" width="49%"></picture></a>
 
-**[Explore DNS and HTTP →](https://github.com/OrBrener1/protocols-in-practice)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **[Explore operating systems →](https://github.com/OrBrener1/os-in-practice)**<br>
-
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**[Explore the project →](https://github.com/OrBrener1/protocols-in-practice)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **[Explore the project →](https://github.com/OrBrener1/os-in-practice)**
 ## Technical toolkit
 
 | | |
