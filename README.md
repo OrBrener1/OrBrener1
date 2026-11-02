@@ -8,15 +8,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br>
 
 <a href="#projects"><img src="assets/nav-projects.svg" alt="Projects" height="40"></a>&nbsp;
+<a href="#further-projects"><img src="assets/nav-further.svg" alt="Further projects" height="40"></a>&nbsp;
 <a href="#technical-toolkit"><img src="assets/nav-toolkit.svg" alt="Technical toolkit" height="40"></a>&nbsp;
 <a href="#education"><img src="assets/nav-education.svg" alt="Education" height="40"></a>&nbsp;
 <a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" height="40"></a>
@@ -25,7 +28,7 @@
 
 <br>
 
-I'm a computational biology student at Bar-Ilan University. My two main projects are a survival-prediction study on real patient data and a full-stack cloud storage system with web and mobile clients. Both are documented below.
+I'm a computational biology student at Bar-Ilan University. My two main projects are a survival-prediction study on real patient data and a full-stack cloud storage system with web and mobile clients. Alongside them are two smaller projects in networking and operating systems. All of them are documented below.
 <br>
 
 ## Projects
@@ -56,11 +59,19 @@ A Google Drive-style storage system: a web client and a mobile app on top of one
 
 <br>
 
+## Further projects
+
+Tools built close to the operating system and the network, each with its own test suite and documented design decisions.
+
+<a href="https://github.com/OrBrener1/protocols-in-practice"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-networks-dark.svg"><img alt="DNS and HTTP over sockets. Computer Networks, Python. A caching DNS resolver and an HTTP/1.1 server and client, written directly on sockets. UDP, TCP, sockets, threads." src="assets/card-networks-light.svg" width="49%"></picture></a>&nbsp;<a href="https://github.com/OrBrener1/os-in-practice"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-os-dark.svg"><img alt="Operating systems in practice. Operating Systems, C and Bash. A CPU scheduler, four IPC channels and safety hooks for an AI coding agent. Processes, signals, shared memory." src="assets/card-os-light.svg" width="49%"></picture></a>
+
+<br>
+
 ## Technical toolkit
 
 | | |
 |---|---|
-| **Languages** | Python, SQL, C++, Java, JavaScript, HTML/CSS |
+| **Languages** | Python, SQL, C, C++, Java, JavaScript, Bash, HTML/CSS |
 | **Data & ML** | pandas, PyTorch / PyTorch Geometric, matplotlib / seaborn, exploratory data analysis, feature engineering |
 | **Statistics** | Survival analysis, censored data, cross-validation, model evaluation and benchmarking |
 | **Software engineering** | Object-oriented programming, client–server architecture, REST APIs, concurrency, networking |
@@ -79,7 +90,7 @@ My work applies the computational side to clinical and biological data.
 
 **Core coursework** 
 
-    · Algorithms · Communication Networks · Machine Learning · Bioinformatics · Computational Genomics · Biochemistry · Human–Machine Interface
+    · Algorithms · Communication Networks · Operating Systems · Machine Learning · Bioinformatics · Computational Genomics · Biochemistry · Human–Machine Interface
 
 <br>
 
